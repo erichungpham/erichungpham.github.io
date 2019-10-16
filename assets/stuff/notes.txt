@@ -1,4 +1,4 @@
-Welcome, my name is Eric Pham. I am a software engineer who graduated from California State University, Sacramento. My interests include powerlifting, cycling, and mixed martial arts.
+Welcome, my name is Eric Pham. I am a software~1645 engineer who graduated from California State University, Sacramento. My interests include powerlifting, cycling, and mixed martial arts.
 
 
 
@@ -23,3 +23,5 @@ ran a minecraft server
 >>ADD LIFE SKILLS
 >>Add preview of discord bot
 
+
+~165, Spotify project. Find better word for published
