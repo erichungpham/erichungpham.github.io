@@ -1,4 +1,4 @@
-Welcome, my name is Eric Pham. I am a software~1645 engineer who graduated from California State University, Sacramento. My interests include powerlifting, cycling, and mixed martial arts.
+Welcome, my name is Eric Pham. I am a softwarez engineer who graduated from California State University, Sacramento. My interests include powerlifting, cycling, and mixed martial arts.
 
 
 
@@ -19,9 +19,11 @@ Consider adding humor or a personal story to add flavor to your professional bio
 dnd sessions?
 ran a minecraft server
 
->>ADD PDF of resume
+>>ADD PDF of resume //?? do I? resume is basically same shit. maybe just add person skills in there.
 >>ADD LIFE SKILLS
 >>Add preview of discord bot
+>>Add android project
+>> aws bullhit
 
 
 ~165, Spotify project. Find better word for published
